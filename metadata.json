@@ -1,0 +1,6 @@
+{
+  "name": "Plate Sentinel",
+  "description": "Enterprise OCR license plate scanner with real-time verification status, secure database management, administrator system, and CSV import/export capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
